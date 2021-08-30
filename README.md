@@ -2,13 +2,17 @@
 An image recognition application made using CreateML, CoreML, and Vision that reads sign language alphabets through user uploaded images
 
 ## Letter A identification 
-![](https://cdn.discordapp.com/attachments/870133707325997087/881950771946610708/image0.png)
+<img src="https://cdn.discordapp.com/attachments/870133707325997087/881950771946610708/image0.png" width='250' height='550'> 
+
 
 ## Letter B identification 
-![](https://cdn.discordapp.com/attachments/870133707325997087/881950766074589244/image0.png)
+<img src="https://cdn.discordapp.com/attachments/870133707325997087/881950766074589244/image0.png" width='250' height='550'> 
+
 
 ## Letter C identification 
-![](https://cdn.discordapp.com/attachments/870133707325997087/881950778431008778/image0.png)
+<img src="https://cdn.discordapp.com/attachments/870133707325997087/881950778431008778/image0.png" width='250' height='550'> 
+
 
 ## Letter D identification 
-![](https://cdn.discordapp.com/attachments/870133707325997087/881950755345555526/image0.png)
+<img src="https://cdn.discordapp.com/attachments/870133707325997087/881950755345555526/image0.png" width='250' height='550'> 
+
