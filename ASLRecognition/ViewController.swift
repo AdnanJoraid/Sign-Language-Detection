@@ -50,14 +50,16 @@ class ViewController: UIViewController, UIImagePickerControllerDelegate, UINavig
             //getting the first result with the highest confidence rate.
             if let result = results.first {
                 if result.identifier.contains("A"){
-                    self.navigationItem.title = "A!"
+                    self.navigationItem.title = "The letter is A"
                     
                 }else if result.identifier.contains("B"){
-                    self.navigationItem.title = "B"
+                    self.navigationItem.title = "The letter is B"
                 }else if result.identifier.contains("C"){
-                    self.navigationItem.title = "C"
+                    self.navigationItem.title = "The letter is C"
                 }else if result.identifier.contains("D"){
-                    self.navigationItem.title = "D"
+                    self.navigationItem.title = "The letter is D"
+                }else {
+                    self.navigationItem.title = "Unknown"
                 }
             }
         }
